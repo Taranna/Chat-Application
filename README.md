@@ -1,2 +1,2 @@
-# Chat-Application [LIVE SITE](https://realtime-chat-application.netlify.app/)
+# Chat-Application [LIVE SITE](https://reactchatty.netlify.app/)
 
